@@ -73,6 +73,7 @@ main {
 /* modal */
 
 .modal {
+  position: fixed;
   height: 420px;
   width: 350px;
   border-radius: 5px;
